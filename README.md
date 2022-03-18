@@ -1,4 +1,4 @@
-![Web-developer](https://mdsalahuddin2001.github.io/github-readme-assets/banner-githubf.png)
+![Web-developer](https://mdsalahuddin2001.github.io/github-readme-assets/banner-github.png)
 
 <h1 align="left">Assalamu-alaikum. MD Salahuddin here</h1>
 <h3 align="left">A dedicated and passionate frontend developer from Bangladesh.I like to explore to the wonderful world of web development</h3>
